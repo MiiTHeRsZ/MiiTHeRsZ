@@ -64,4 +64,27 @@ Here are some ideas to get you started:
 
 ## Tools and Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40 />
+<a href="https://www.linkedin.com/in/gustavomiithleme/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 height=40 /></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40 />
+
+
+
+### Cards
+
+<div>
+<a href="https://github.com/miithersz">
+<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=dracula"/>
+<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=dracula"/>
+</div>
+            
+<div>
+<a href="https://github.com/miithersz">
+<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical"/>
+<img align="center" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+![Snake animation](https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg)
