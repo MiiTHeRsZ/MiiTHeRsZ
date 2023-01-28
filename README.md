@@ -87,4 +87,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture>
+
 ![Snake animation](https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg)
