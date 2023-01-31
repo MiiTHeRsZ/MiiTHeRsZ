@@ -69,14 +69,14 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/miithersz">
 <img height="auto" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-<img height="auto" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=dracula"/>
+<!-- <img height="auto" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=dracula"/> -->
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/miithersz">
 <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=radical"/>
-<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=dracula"/>
+<!-- <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=dracula"/> -->
 </a>
 </div>
 
@@ -86,13 +86,15 @@ Here are some ideas to get you started:
 <img height="auto" src="https://streak-stats.demolab.com?user=miithersz&theme=dracula&locale=pt_BR&mode=weekly"/>
 </a>
 </div>
-            
+
+<!--
 <div align="center">
 <a href="https://github.com/miithersz">
 <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical"/>
 <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=dracula"/>
 </a>
 </div>
+-->
 
 <div align="center">
 <a href="https://github.com/miithersz">
