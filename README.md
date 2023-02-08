@@ -1,7 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miithersz&label=Profile%20views&color=0e75b6&style=flat" alt="miithersz" /> </p>
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B19F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gusta+%3A3" alt="Typing SVG" /></a>
-
+</div>
 
 <div align="center">
 <a href="https://github.com/miithersz">
