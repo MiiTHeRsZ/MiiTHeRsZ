@@ -67,15 +67,17 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/miithersz">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=radical"/>
 </a>
 </div>
 
+<div align="center">
 <a href="https://github.com/miithersz">
 <img height="auto" src="https://streak-stats.demolab.com?user=miithersz&theme=radical"/>
 <img height="auto" src="https://streak-stats.demolab.com?user=miithersz&theme=dracula&mode=weekly"/>
 </a>
+</div>
 
 <!--
 # Repos
