@@ -1,5 +1,7 @@
-# Hi I'm Gustavo, or if you prefer, Gusta ;p
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miithersz&label=Profile%20views&color=0e75b6&style=flat" alt="miithersz" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=miithersz&label=Profile%20views&color=0e75b6&style=flat" alt="miithersz" /> </p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B19F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gusta+%3A3" alt="Typing SVG" /></a>
+
 
 <div align="center">
 <a href="https://github.com/miithersz">
@@ -48,9 +50,21 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 -->
 
-## Tools and Technologies
+<h2 align="center">Tools and Technologies</h2>
 
-<a href="https://www.linkedin.com/in/gustavomiithleme/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 height=40 /></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40 />
+<p align="center">
+        <a href="https://www.linkedin.com/in/gustavomiithleme/" target="_blank">
+                <code><img title="LikendIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40 height=40 /></code>
+        </a>
+        <code><img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=40 height=40 /></code>
+        <code><img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /></code>
+        <code><img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 height=40 /></code>
+        <code><img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40></code>
+        <code><img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /></code>
+        <code><img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /></code>
+        <code><img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /></code>
+        <code><img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 height=40 /></code>
+</p>
 
 
 
