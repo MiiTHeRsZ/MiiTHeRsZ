@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 -->
 
 <!-- Badges
-https://github.com/MiiTHeRsZ/ColoredBadges
+github.com/MiiTHeRsZ/ColoredBadges
+shields.io
 -->
 
 <!-- Icons
-https://devicon.dev
-https://www.vectorlogo.zone
-https://skillicons.dev
+devicon.dev
+www.vectorlogo.zone
+skillicons.dev
 -->
 
 <h2 align="center">Tools and Technologies</h2>
