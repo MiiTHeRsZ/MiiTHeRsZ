@@ -83,11 +83,11 @@ skillicons.dev
 
 <div align="center">
         <a href="https://github.com/miithersz">
-                <picture>
+<!--                 <picture>
                         <source media="(prefers-color-scheme: light)" srcset="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg">
                         <img alt="github-snake" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake-dark.svg">
-                </picture>
-<!--                 <img height="auto" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg"/> -->
+                </picture> -->
+                <img height="auto" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg"/>
         </a>
 </div>
 
