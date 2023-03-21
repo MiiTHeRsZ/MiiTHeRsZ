@@ -23,8 +23,9 @@ shields.io
 
 <!-- Icons
 devicon.dev
-www.vectorlogo.zone
+vectorlogo.zone
 skillicons.dev
+flaticon.com
 -->
 
 <h2 align="center">Tools and Technologies</h2>
