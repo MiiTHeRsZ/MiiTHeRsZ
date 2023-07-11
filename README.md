@@ -2,6 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=miithersz&label=Profile%20views&color=0e75b6&style=flat" alt="miithersz" /> </p>
 
+![imagem1](https://github.com/MiiTHeRsZ/MiiTHeRsZ/assets/103009063/4bf37fa7-c66b-4e96-8ebd-6daaaa537af8)
+
 <div align="center">
         <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=9B19F7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gusta+%3Ap;System+Analysis+and+Development+student;Brazilian+Developer;Cat+Lover+%3A3;Animes+%26+Games+%26+Alanzoka+%3C3" alt="Typing SVG" />
