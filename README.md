@@ -1,7 +1,5 @@
 > Status: Em desenvolvimento
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=miithersz&label=Profile%20views&color=0e75b6&style=flat" alt="miithersz" /> </p>
-
 ![imagem1](https://github.com/MiiTHeRsZ/MiiTHeRsZ/assets/103009063/4bf37fa7-c66b-4e96-8ebd-6daaaa537af8)
 
 <div align="center">
