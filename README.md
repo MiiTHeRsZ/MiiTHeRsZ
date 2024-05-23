@@ -1,6 +1,6 @@
-> Status: Em desenvolvimento
+> Status: In Development
 
-![imagem1](https://github.com/MiiTHeRsZ/MiiTHeRsZ/assets/103009063/4bf37fa7-c66b-4e96-8ebd-6daaaa537af8)
+<!-- ![imagem1](https://github.com/MiiTHeRsZ/MiiTHeRsZ/assets/103009063/4bf37fa7-c66b-4e96-8ebd-6daaaa537af8) -->
 
 <div align="center">
         <a href="https://git.io/typing-svg">
@@ -65,12 +65,14 @@ flaticon.com
         </a>
 </div>
 
+<!--
 <div align="center">
         <a href="https://github.com/miithersz">
                 <img height="auto" src="https://streak-stats.demolab.com?user=miithersz&theme=radical"/>
                 <img height="auto" src="https://streak-stats.demolab.com?user=miithersz&theme=dracula&mode=weekly"/>
         </a>
 </div>
+-->
 
 <!--
 # Repos
@@ -92,7 +94,3 @@ flaticon.com
                 <!-- <img height="auto" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg"/> -->
         </a>
 </div>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
