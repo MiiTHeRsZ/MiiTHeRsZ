@@ -78,10 +78,9 @@ flaticon.com
 # Repos
 
 <div align="center">
-        <a href="https://github.com/miithersz">
-                <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical"/>
-                <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=dracula"/>
-        </a>
+        <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical&hide_border=true&bg_color=00000000"/>
+        <img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=aura&hide_border=true&bg_color=00000000"/>
+        <a href="https://github.com/MiiTHeRsZ/Projeto-Integrador---Jogo-RPG"><img height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=miithersz&repo=Projeto-Integrador---Jogo-RPG&show_owner=true&theme=radical"/></a>
 </div>
 -->
 
