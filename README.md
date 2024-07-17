@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-
 > Status: In Development
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <!-- ![imagem1](https://github.com/MiiTHeRsZ/MiiTHeRsZ/assets/103009063/4bf37fa7-c66b-4e96-8ebd-6daaaa537af8) -->
 
@@ -61,7 +61,7 @@ flaticon.com
 -->
 
 <div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&theme=aura&hide_border=true&bg_color=00000000"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miithersz&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&theme=aura&hide_border=true&bg_color=00000000"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miithersz&layout=compact&theme=aura&hide_border=true&bg_color=00000000"/>
 </div>
 
