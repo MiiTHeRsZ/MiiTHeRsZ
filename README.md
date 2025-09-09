@@ -86,15 +86,15 @@ flaticon.com
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
         <a href="https://github.com/miithersz">
                 <picture>
                         <source media="(prefers-color-scheme: light)" srcset="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg">
                         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake-dark.svg" />
                         <img alt="github-snake" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg">
                 </picture>
-                <!-- <img height="auto" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg"/> -->
+                //* comentar depois  <img height="auto" src="https://github.com/miithersz/miithersz/blob/output/github-contribution-grid-snake.svg"/>
         </a>
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
